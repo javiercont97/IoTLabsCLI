@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/box.png</file>
+        <file>icons/copy.png</file>
+        <file>icons/cut.png</file>
+        <file>icons/new.png</file>
+        <file>icons/open.png</file>
+        <file>icons/paste.png</file>
+        <file>icons/play.png</file>
+        <file>icons/save.png</file>
+        <file>icons/icon.png</file>
+        <file>Controls/Gauge.qml</file>
+        <file>Controls/qmldir</file>
+        <file>Controls/pugins.qmltypes</file>
+        <file>icons/imt-Logo.jpg</file>
+        <file>Template.qml</file>
+    </qresource>
+</RCC>
